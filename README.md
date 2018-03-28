@@ -1,5 +1,5 @@
 # Repo Branch
-Script to get the last modified time and git branch of your directory. 
+Script to get the last modified time and branch information of all repositories in your directory. 
 
 ## Installation 
 1. `git clone https://github.com/jasonkwok/Repo-Branch.git`
