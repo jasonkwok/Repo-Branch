@@ -30,5 +30,5 @@ ARGV.each do|path|
 end
 
 if $no_arg
-  checkBranchOfFile(".")
+  checkBranchOfFile("..")
 end
