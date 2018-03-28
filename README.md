@@ -6,6 +6,6 @@ Script to get the last modified time and git branch of your directory.
 
 ## Usage 
 1. `cd Repo-Branch` 
-2. `make repobranch dir={main directory search the branches of}` <br> 
+2. `make repobranch dir={directory you wish to search for git repos}` <br> 
 If `dir=` is not added, it will default to the parent directory of this repository. 
 
